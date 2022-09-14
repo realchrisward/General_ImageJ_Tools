@@ -1,4 +1,4 @@
-=General_ImageJ_Tools=
+#General_ImageJ_Tools
 a collection of macros that help with image analysis
 (C) Christopher Ward 2022
 
