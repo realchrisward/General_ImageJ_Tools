@@ -2,9 +2,10 @@
 a collection of macros that help with image analysis
 (C) Christopher Ward 2022
 
-##Included Tools##
+##Included Tools
 
-###image extract_gui.ijm###
+###image extract_gui.ijm
+
 tool provides a minimal GUI based workflow to extract MRI images
 from subfolders created during acquisition using Bruker Biospin
 Paravision 4 software.
