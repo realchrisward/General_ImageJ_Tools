@@ -26,3 +26,6 @@ This tool should be compatable with "Cell Counter" plug-in.
 
 ### Flatten and Fractionate.ijm
 Flattens an image stack and burns in a ROI. An Optical Disector Grid is overlayed.
+
+### ray intensity quantification.ijm
+a tool to aid the used in sampling pixel intensities of cells of interest, best if used in combination with a tool to create a systematic random sampling grid.
