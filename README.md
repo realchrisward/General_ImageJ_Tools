@@ -23,3 +23,6 @@ A grid is created that subdivides an image into set number of pieces [sampefract
 Counting boxes are then placed within these pieces and are themselves a subfraction of the region [boxfract].
 Cell counts can then be scaled up by a factor of (samplefract*boxfract).
 This tool should be compatable with "Cell Counter" plug-in.
+
+### Flatten and Fractionate.ijm
+Flattens an image stack and burns in a ROI. An Optical Disector Grid is overlayed.
